@@ -43,6 +43,7 @@ Este proyecto es una página de inicio de sesión moderna con animaciones de fon
 .
 ├── index.html        # Archivo HTML principal
 ├── styles.css        # Estilos CSS para la página
+├── script.js         # Script en JS para el funcionamiento de la página.
 ├── README.md         # Este archivo README
 └── assets/           # Imágenes, SVGs, y otros recursos
 ```
