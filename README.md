@@ -21,12 +21,12 @@ Este proyecto es una página de inicio de sesión moderna con animaciones de fon
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    https://github.com/BenjaminAR/LoginPage.git
     ```
 
 2. Navega a la carpeta del proyecto:
     ```bash
-    cd tu-repositorio
+    cd LoginPage
     ```
 
 3. Abre el archivo `index.html` en tu navegador favorito.
